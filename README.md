@@ -15,6 +15,7 @@ Tools: Python, Excel, and Looker Studio.
 **User Acquisition:** Organic search traffic sources attract the most new users.
 
 **User Engagement:** 
+
 User activity demonstrates a clear weekly seasonal trend.
 - Peak Day: User activity, for both total and engaged sessions, peaks on Tuesday.
 - Peak Hours: The busiest time on the site is between 9 AM and 11 AM.
