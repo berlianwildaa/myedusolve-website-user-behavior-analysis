@@ -6,9 +6,9 @@ This is a case study from the Capstone Project for the Kampus Merdeka MSIB 6 pro
 
 **Business Understanding**
 
-Project Objective: To identify what kind of user behaviors lead them to engage in purchase-related activities on the MyEduSolve website.
-Data Source: MyEduSolve's Google Analytics (Period: January - June 2023).
-Tools: Python, Excel, and Looker Studio.
+- Project Objective: To identify what kind of user behaviors lead them to engage in purchase-related activities on the MyEduSolve website.
+- Data Source: MyEduSolve's Google Analytics (Period: January - June 2023).
+- Tools: Python, Excel, and Looker Studio.
 
 **Insight**
 
