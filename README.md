@@ -4,11 +4,13 @@ This is a case study from the Capstone Project for the Kampus Merdeka MSIB 6 pro
 **Disclaimer:** This repository serves as a summary of the project's key findings. Due to data confidentiality, the raw dataset and analysis scripts cannot be shared publicly.
 
 **Business Understanding**
+
 Project Objective: To identify what kind of user behaviors lead them to engage in purchase-related activities on the MyEduSolve website.
 Data Source: MyEduSolve's Google Analytics (Period: January - June 2023).
 Tools: Python, Excel, and Looker Studio.
 
 **Insight**
+
 **User Acquisition:** Organic search traffic sources attract the most new users.
 **User Engagement:** 
 User activity demonstrates a clear weekly seasonal trend.
