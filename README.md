@@ -1,16 +1,13 @@
 **Case Study: User Behavior Analysis on the MyEduSolve Website**
-
 This is a case study from the Capstone Project for the Kampus Merdeka MSIB 6 program at MyEduSolve, Data Analyst Pathway. This project analyzes user behavior on the MyEduSolve website to uncover actionable insights and provide business recommendations.
 **Disclaimer:** This repository serves as a summary of the project's key findings. Due to data confidentiality, the raw dataset and analysis scripts cannot be shared publicly.
 
 **Business Understanding**
-
 Project Objective: To identify what kind of user behaviors lead them to engage in purchase-related activities on the MyEduSolve website.
 Data Source: MyEduSolve's Google Analytics (Period: January - June 2023).
 Tools: Python, Excel, and Looker Studio.
 
 **Insight**
-
 **User Acquisition:** Organic search traffic sources attract the most new users.
 **User Engagement:** 
 User activity demonstrates a clear weekly seasonal trend.
@@ -20,7 +17,7 @@ User activity demonstrates a clear weekly seasonal trend.
 **Product & Purchase:**
 - There is a strong, positive correlation between the number of items viewed and the number of items added to the cart.
 - The most purchased item is the Visual Design using Adobe Photoshop certification.
-**User Device: **
+**User Device:**
 - When browsing and viewing items, the majority of users are on mobile devices.
 - However, the majority of users prefer to complete their purchases using a desktop.
 
